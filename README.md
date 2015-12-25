@@ -1,3 +1,5 @@
+# THIS IS A FORK
+
 # angular-chart.js
 
 [![Bower version](https://badge.fury.io/bo/angular-chart.js.svg)](http://badge.fury.io/bo/angular-chart.js)
